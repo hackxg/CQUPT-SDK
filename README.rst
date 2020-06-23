@@ -10,6 +10,9 @@ LongM
 
    *
     我设置了cookie保留机制与cookie有效性判断机制，避免重复访问导致并发量过高。
+    
+   *
+    如果你需要内外网入修改config中对应地址即可
 
 - Login登录
     + Login(username,passwd)你需要提供 **统一识别认证码** **对应的密码**
