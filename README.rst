@@ -13,6 +13,8 @@ LongM
     
    *
     如果你需要内外网入修改config中对应地址即可
+   *
+    安装方式： pip install CQUPT-SDK
 
 - Login登录
     + Login(username,passwd)你需要提供 **统一识别认证码** **对应的密码**
